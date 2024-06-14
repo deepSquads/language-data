@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 # This file is maintained in https://github.com/DeepsquadsOrg/meta/
-github: [nijel, DeepsquadsOrg]
+github: [khulnasoft-bot, DeepsquadsOrg]
 custom: https://deepsquads.org/donate/
 liberapay: Deepsquads
 open_collective: deepsquads
