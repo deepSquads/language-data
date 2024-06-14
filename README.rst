@@ -7,10 +7,6 @@ Language definitions used by `Deepsquads`_ and free to use by others.
     :alt: Website
     :target: https://deepsquads.org/
 
-.. image:: https://hosted.deepsquads.org/widgets/deepsquads/-/svg-badge.svg
-    :alt: Translation status
-    :target: https://hosted.deepsquads.org/engage/deepsquads/?utm_source=widget
-
 .. image:: https://bestpractices.coreinfrastructure.org/projects/552/badge
     :alt: CII Best Practices
     :target: https://bestpractices.coreinfrastructure.org/projects/552
