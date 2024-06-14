@@ -1,0 +1,150 @@
+# CLDR language names for ebu
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: ebu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+msgid "Akan"
+msgstr "Kĩakan"
+
+msgid "Amharic"
+msgstr "Kĩamhari"
+
+msgid "Arabic"
+msgstr "Kĩarabu"
+
+msgid "Bangla"
+msgstr "Kĩbangla"
+
+msgid "Belarusian"
+msgstr "Kĩmbelarusi"
+
+msgid "Bulgarian"
+msgstr "Kĩbulgaria"
+
+msgid "Burmese"
+msgstr "Kĩburma"
+
+msgid "Chinese"
+msgstr "Kĩchina"
+
+msgid "Chinese, Mandarin"
+msgstr "Kĩchina"
+
+msgid "Czech"
+msgstr "Kĩcheki"
+
+msgid "Dutch"
+msgstr "Kĩholanzi"
+
+msgid "Embu"
+msgstr "Kĩembu"
+
+msgid "English"
+msgstr "Kĩthungu"
+
+msgid "French"
+msgstr "Kĩfaransa"
+
+msgid "German"
+msgstr "Kĩnjeremani"
+
+msgid "Greek"
+msgstr "Kĩngriki"
+
+msgid "Hausa"
+msgstr "Kĩhausa"
+
+msgid "Hindi"
+msgstr "Kĩhindĩ"
+
+msgid "Hungarian"
+msgstr "Kĩhungari"
+
+msgid "Igbo"
+msgstr "Kĩigbo"
+
+msgid "Indonesian"
+msgstr "Kĩindonesia"
+
+msgid "Italian"
+msgstr "Kĩitaliano"
+
+msgid "Japanese"
+msgstr "Kĩnjapani"
+
+msgid "Javanese"
+msgstr "Kĩjava"
+
+msgid "Khmer"
+msgstr "Kĩkambodia"
+
+msgid "Kinyarwanda"
+msgstr "Kĩnyarwanda"
+
+msgid "Korean"
+msgstr "Kĩkorea"
+
+msgid "Malay"
+msgstr "Kĩmalesia"
+
+msgid "Nepali"
+msgstr "Kĩnepali"
+
+msgid "Persian"
+msgstr "Kĩanjemi"
+
+msgid "Polish"
+msgstr "Kĩpolandi"
+
+msgid "Portuguese"
+msgstr "Kĩreno"
+
+msgid "Punjabi"
+msgstr "Kĩpunjabi"
+
+msgid "Romanian"
+msgstr "Kĩromania"
+
+msgid "Russian"
+msgstr "Kĩrusi"
+
+msgid "Somali"
+msgstr "Kĩsomali"
+
+msgid "Spanish"
+msgstr "Kĩhispania"
+
+msgid "Swedish"
+msgstr "Kĩswidi"
+
+msgid "Tamil"
+msgstr "Kĩtamil"
+
+msgid "Thai"
+msgstr "Kĩtailandi"
+
+msgid "Turkish"
+msgstr "Kĩturuki"
+
+msgid "Ukrainian"
+msgstr "Kĩukrania"
+
+msgid "Urdu"
+msgstr "Kĩurdu"
+
+msgid "Vietnamese"
+msgstr "Kĩvietinamu"
+
+msgid "Yoruba"
+msgstr "Kĩyoruba"
+
+msgid "Zulu"
+msgstr "Kĩzulu"

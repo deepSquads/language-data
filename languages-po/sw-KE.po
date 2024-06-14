@@ -1,0 +1,1488 @@
+# CLDR language names for sw-KE
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: sw-KE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+msgid "Abkhazian"
+msgstr "Kiabkhazi"
+
+msgid "Acehnese"
+msgstr "Kiacheni"
+
+msgid "Acoli"
+msgstr "Kiakoli"
+
+msgid "Adangme"
+msgstr "Kiadangme"
+
+msgid "Adyghe"
+msgstr "Kiadyghe"
+
+msgid "Afar"
+msgstr "Kiafar"
+
+msgid "Afrikaans"
+msgstr "Kiafrikana"
+
+msgid "Aghem"
+msgstr "Kiaghem"
+
+msgid "Ainu"
+msgstr "Kiainu"
+
+msgid "Akan"
+msgstr "Kiakani"
+
+msgid "Albanian"
+msgstr "Kialbania"
+
+msgid "Aleut"
+msgstr "Kialeut"
+
+msgid "Algerian Arabic"
+msgstr "Kiarabu cha Aljeria"
+
+msgid "American English"
+msgstr "Kiingereza cha Marekani"
+
+msgid "Amharic"
+msgstr "Kiamhari"
+
+msgid "Ancient Egyptian"
+msgstr "Kimisri"
+
+msgid "Ancient Greek"
+msgstr "Kigiriki cha Kale"
+
+msgid "Angika"
+msgstr "Kiangika"
+
+msgid "Arabic"
+msgstr "Kiarabu"
+
+msgid "Aragonese"
+msgstr "Kiaragoni"
+
+msgid "Aramaic"
+msgstr "Kiaramu"
+
+msgid "Arapaho"
+msgstr "Kiarapaho"
+
+msgid "Armenian"
+msgstr "Kiarmenia"
+
+msgid "Aromanian"
+msgstr "Kiaromania"
+
+msgid "Assamese"
+msgstr "Kiassam"
+
+msgid "Asturian"
+msgstr "Kiasturia"
+
+msgid "Asu"
+msgstr "Kiasu"
+
+msgid "Atikamekw"
+msgstr "Kiatikameku"
+
+msgid "Australian English"
+msgstr "Kiingereza cha Australia"
+
+msgid "Austrian German"
+msgstr "Kijerumani cha Austria"
+
+msgid "Avaric"
+msgstr "Kiavari"
+
+msgid "Awadhi"
+msgstr "Kiawadhi"
+
+msgid "Aymara"
+msgstr "Kiaymara"
+
+msgid "Azerbaijani"
+msgstr "Kiazabaijani"
+
+msgid "Azeri"
+msgstr "Kiazeri"
+
+msgid "Bafia"
+msgstr "Kibafia"
+
+msgid "Bafut"
+msgstr "Kibafut"
+
+msgid "Balinese"
+msgstr "Kibalini"
+
+msgid "Bambara"
+msgstr "Kibambara"
+
+msgid "Bamun"
+msgstr "Kibamun"
+
+msgid "Bangla"
+msgstr "Kibangla"
+
+msgid "Basaa"
+msgstr "Kibasaa"
+
+msgid "Bashkir"
+msgstr "Kibashkiri"
+
+msgid "Basque"
+msgstr "Kibaski"
+
+msgid "Beja"
+msgstr "Kibeja"
+
+msgid "Belarusian"
+msgstr "Kibelarusi"
+
+msgid "Bemba"
+msgstr "Kibemba"
+
+msgid "Bena"
+msgstr "Kibena"
+
+msgid "Bhojpuri"
+msgstr "Kibojpuri"
+
+msgid "Bini"
+msgstr "Kibini"
+
+msgid "Bislama"
+msgstr "Kibislama"
+
+msgid "Blin"
+msgstr "Kiblin"
+
+msgid "Bodo"
+msgstr "Kibodo"
+
+msgid "Bosnian"
+msgstr "Kibosnia"
+
+msgid "Brazilian Portuguese"
+msgstr "Kireno cha Brazili"
+
+msgid "Breton"
+msgstr "Kibretoni"
+
+msgid "British English"
+msgstr "Kiingereza cha Uingereza"
+
+msgid "Buginese"
+msgstr "Kibugini"
+
+msgid "Bulgarian"
+msgstr "Kibulgaria"
+
+msgid "Bulu"
+msgstr "Kibulu"
+
+msgid "Burmese"
+msgstr "Kibama"
+
+msgid "Cajun French"
+msgstr "Kifaransa cha Kajuni"
+
+msgid "Canadian English"
+msgstr "Kiingereza cha Kanada"
+
+msgid "Canadian French"
+msgstr "Kifaransa cha Kanada"
+
+msgid "Cantonese"
+msgstr "Kikantoni"
+
+msgid "Carolina Algonquian"
+msgstr "Kialgiki cha Carolina"
+
+msgid "Catalan"
+msgstr "Kikatalani"
+
+msgid "Cayuga"
+msgstr "Kikayuga"
+
+msgid "Cebuano"
+msgstr "Kisebuano"
+
+msgid "Central Atlas Tamazight"
+msgstr "Kitamazight cha Atlas ya Kati"
+
+msgid "Central Kurdish"
+msgstr "Kikurdi cha Kati"
+
+msgid "Central Ojibwa"
+msgstr "Kiojibwa cha Kati"
+
+msgid "Chadian Arabic"
+msgstr "Kiarabu cha Chadi"
+
+msgid "Chakma"
+msgstr "Kichakma"
+
+msgid "Chamorro"
+msgstr "Kichamoro"
+
+msgid "Chechen"
+msgstr "Kichechen"
+
+msgid "Cherokee"
+msgstr "Kicheroki"
+
+msgid "Cheyenne"
+msgstr "Kicheyeni"
+
+msgid "Chiga"
+msgstr "Kichiga"
+
+msgid "Chilcotin"
+msgstr "Kichilkotini"
+
+msgid "Chinese"
+msgstr "Kichina"
+
+msgid "Chinese, Cantonese"
+msgstr "Kichina, Kikantoni"
+
+msgid "Chinese, Mandarin"
+msgstr "Kichina, Kimandarini"
+
+msgid "Chipewyan"
+msgstr "Kichipewyani"
+
+msgid "Choctaw"
+msgstr "Kichoktao"
+
+msgid "Church Slavic"
+msgstr "Kislovakia cha Kanisa la Jadi"
+
+msgid "Chuukese"
+msgstr "Kichuuki"
+
+msgid "Chuvash"
+msgstr "Kichuvash"
+
+msgid "Classical Newari"
+msgstr "Kinewari cha kale"
+
+msgid "Colognian"
+msgstr "Kikolon"
+
+msgid "Comorian"
+msgstr "Kikomoro"
+
+msgid "Congo Swahili"
+msgstr "Kiswahili cha Kongo"
+
+msgid "Coptic"
+msgstr "Kikhufti"
+
+msgid "Cornish"
+msgstr "Kikoni"
+
+msgid "Corsican"
+msgstr "Kikosikani"
+
+msgid "Croatian"
+msgstr "Kikroeshia"
+
+msgid "Czech"
+msgstr "Kicheki"
+
+msgid "Dakota"
+msgstr "Kidakota"
+
+msgid "Danish"
+msgstr "Kidenmaki"
+
+msgid "Dargwa"
+msgstr "Kidaragwa"
+
+msgid "Dari"
+msgstr "Kidari"
+
+msgid "Dazaga"
+msgstr "Kidazaga"
+
+msgid "Divehi"
+msgstr "Kidivehi"
+
+msgid "Dogri"
+msgstr "Kidogri"
+
+msgid "Dogrib"
+msgstr "Kidogrib"
+
+msgid "Duala"
+msgstr "Kiduala"
+
+msgid "Dutch"
+msgstr "Kiholanzi"
+
+msgid "Dyula"
+msgstr "Kijula"
+
+msgid "Dzongkha"
+msgstr "Kizongkha"
+
+msgid "Eastern Frisian"
+msgstr "Kifrisia cha Mashariki"
+
+msgid "Efik"
+msgstr "Kiefik"
+
+msgid "Egyptian Arabic"
+msgstr "Kiarabu cha Misri"
+
+msgid "Ekajuk"
+msgstr "Kiekajuk"
+
+msgid "Embu"
+msgstr "Kiembu"
+
+msgid "English"
+msgstr "Kiingereza"
+
+msgid "Erzya"
+msgstr "Kierzya"
+
+msgid "Esperanto"
+msgstr "Kiesperanto"
+
+msgid "Estonian"
+msgstr "Kiestonia"
+
+msgid "European Portuguese"
+msgstr "Kireno cha Ulaya"
+
+msgid "European Spanish"
+msgstr "Kihispania cha Ulaya"
+
+msgid "Ewe"
+msgstr "Kiewe"
+
+msgid "Ewondo"
+msgstr "Kiewondo"
+
+msgid "Faroese"
+msgstr "Kifaro"
+
+msgid "Fijian"
+msgstr "Kifiji"
+
+msgid "Filipino"
+msgstr "Kifilipino"
+
+msgid "Finnish"
+msgstr "Kifini"
+
+msgid "Flemish"
+msgstr "Kiflemi"
+
+msgid "Fon"
+msgstr "Kifon"
+
+msgid "French"
+msgstr "Kifaransa"
+
+msgid "Friulian"
+msgstr "Kifriuli"
+
+msgid "Fula"
+msgstr "Kifula"
+
+msgid "Ga"
+msgstr "Kiga"
+
+msgid "Gagauz"
+msgstr "Kigagauz"
+
+msgid "Galician"
+msgstr "Kigalisi"
+
+msgid "Ganda"
+msgstr "Kiganda"
+
+msgid "Gbaya"
+msgstr "Kigbaya"
+
+msgid "Geez"
+msgstr "Kigiiz"
+
+msgid "Georgian"
+msgstr "Kijojia"
+
+msgid "German"
+msgstr "Kijerumani"
+
+msgid "Ghomala"
+msgstr "Kighomala"
+
+msgid "Gilbertese"
+msgstr "Kigilbert"
+
+msgid "Gorontalo"
+msgstr "Kigorontalo"
+
+msgid "Greek"
+msgstr "Kigiriki"
+
+msgid "Guarani"
+msgstr "Kiguarani"
+
+msgid "Gujarati"
+msgstr "Kigujarati"
+
+msgid "Gusii"
+msgstr "Kikisii"
+
+msgid "Gwichʼin"
+msgstr "Kigwichʼin"
+
+msgid "Haida"
+msgstr "Kihaida"
+
+msgid "Haitian Creole"
+msgstr "Kikrioli cha Haiti"
+
+msgid "Halkomelem"
+msgstr "Kihalkomelem"
+
+msgid "Haryanvi"
+msgstr "Kiharyanvi"
+
+msgid "Hausa"
+msgstr "Kihausa"
+
+msgid "Hawaiian"
+msgstr "Kihawaii"
+
+msgid "Hebrew"
+msgstr "Kiebrania"
+
+msgid "Herero"
+msgstr "Kiherero"
+
+msgid "Hiligaynon"
+msgstr "Kihiligaynon"
+
+msgid "Hindi"
+msgstr "Kihindi"
+
+msgid "Hinglish"
+msgstr "Kihindi na Kiingereza"
+
+msgid "Hittite"
+msgstr "Kihiti"
+
+msgid "Hmong"
+msgstr "Kihmong"
+
+msgid "Hungarian"
+msgstr "Kihungaria"
+
+msgid "Hupa"
+msgstr "Kihupa"
+
+msgid "Iban"
+msgstr "Kiiban"
+
+msgid "Ibibio"
+msgstr "Kiibibio"
+
+msgid "Icelandic"
+msgstr "Kiaisilandi"
+
+msgid "Ido"
+msgstr "Kiido"
+
+msgid "Igbo"
+msgstr "Kiibo"
+
+msgid "Iloko"
+msgstr "Kiiloko"
+
+msgid "Inari Sami"
+msgstr "Kisami cha Inari"
+
+msgid "Indonesian"
+msgstr "Kiindonesia"
+
+msgid "Ingush"
+msgstr "Kiingushi"
+
+msgid "Innu-aimun"
+msgstr "Kiinnu-aimun"
+
+msgid "Interlingua"
+msgstr "Lugha ya kimataifa"
+
+msgid "Interlingue"
+msgstr "lugha ya kisayansi"
+
+msgid "Inuktitut"
+msgstr "Kiinuktituti"
+
+msgid "Irish"
+msgstr "Kiayalandi"
+
+msgid "Italian"
+msgstr "Kiitaliano"
+
+msgid "Japanese"
+msgstr "Kijapani"
+
+msgid "Javanese"
+msgstr "Kijava"
+
+msgid "Jju"
+msgstr "Kijju"
+
+msgid "Jola-Fonyi"
+msgstr "Kijola-Fonyi"
+
+msgid "Kabardian"
+msgstr "Kikabadi"
+
+msgid "Kabuverdianu"
+msgstr "Kikabuvedi"
+
+msgid "Kabyle"
+msgstr "Kikabylia"
+
+msgid "Kachin"
+msgstr "Kikachini"
+
+msgid "Kaingang"
+msgstr "Kikaingang"
+
+msgid "Kako"
+msgstr "Kikako"
+
+msgid "Kalaallisut"
+msgstr "Kikalaallisut"
+
+msgid "Kalenjin"
+msgstr "Kikalenjin"
+
+msgid "Kalmyk"
+msgstr "Kikalmyk"
+
+msgid "Kamba"
+msgstr "Kikamba"
+
+msgid "Kanembu"
+msgstr "Kikanembu"
+
+msgid "Kannada"
+msgstr "Kikannada"
+
+msgid "Kanuri"
+msgstr "Kikanuri"
+
+msgid "Karachay-Balkar"
+msgstr "Kikarachaybalka"
+
+msgid "Karelian"
+msgstr "Kakareli"
+
+msgid "Kashmiri"
+msgstr "Kikashmiri"
+
+msgid "Kazakh"
+msgstr "Kikazaki"
+
+msgid "Khasi"
+msgstr "Kikhasi"
+
+msgid "Khmer"
+msgstr "Kikhema"
+
+msgid "Kikuyu"
+msgstr "Kikikuyu"
+
+msgid "Kimbundu"
+msgstr "Kimbundu"
+
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+msgid "Klingon"
+msgstr "Kiklingoni"
+
+msgid "Kom"
+msgstr "Kikom"
+
+msgid "Komi"
+msgstr "Kikomi"
+
+msgid "Komi-Permyak"
+msgstr "Kikomipermyak"
+
+msgid "Kongo"
+msgstr "Kikongo"
+
+msgid "Konkani"
+msgstr "Kikonkani"
+
+msgid "Korean"
+msgstr "Kikorea"
+
+msgid "Koro"
+msgstr "Kikoro"
+
+msgid "Koyra Chiini"
+msgstr "Kikoyrachiini"
+
+msgid "Koyraboro Senni"
+msgstr "Kikoyraborosenni"
+
+msgid "Kpelle"
+msgstr "Kikpele"
+
+msgid "Kuanyama"
+msgstr "Kikuanyama"
+
+msgid "Kumyk"
+msgstr "Kikumyk"
+
+msgid "Kurdish"
+msgstr "Kikurdi"
+
+msgid "Kurdish, Central"
+msgstr "Kikurdi, Kati"
+
+msgid "Kurdish, Sorani"
+msgstr "Kikurdi, Sorani"
+
+msgid "Kurukh"
+msgstr "Kikuruki"
+
+msgid "Kwakʼwala"
+msgstr "Kikwakʼwala"
+
+msgid "Kwasio"
+msgstr "Kikwasio"
+
+msgid "Kyrgyz"
+msgstr "Kikirigizi"
+
+msgid "Kʼicheʼ"
+msgstr "Kʼicheʼ"
+
+msgid "Ladino"
+msgstr "Kiladino"
+
+msgid "Lakota"
+msgstr "Kilakota"
+
+msgid "Lamba"
+msgstr "Kilamba"
+
+msgid "Langi"
+msgstr "Kilangi"
+
+msgid "Lao"
+msgstr "Kilaosi"
+
+msgid "Latin"
+msgstr "Kilatini"
+
+msgid "Latin American Spanish"
+msgstr "Kihispania cha Amerika Kusini"
+
+msgid "Latvian"
+msgstr "Kilatvia"
+
+msgid "Lezghian"
+msgstr "Kilezighi"
+
+msgid "Lillooet"
+msgstr "Kilillooet"
+
+msgid "Limburgish"
+msgstr "Kilimbugi"
+
+msgid "Lingala"
+msgstr "Kilingala"
+
+msgid "Lithuanian"
+msgstr "Kilithuania"
+
+msgid "Lojban"
+msgstr "Kilojbani"
+
+msgid "Louisiana Creole"
+msgstr "Kikrioli cha Louisiana"
+
+msgid "Low German"
+msgstr "Kijerumani cha Chini"
+
+msgid "Lower Sorbian"
+msgstr "Kisobia cha Chini"
+
+msgid "Lozi"
+msgstr "Kilozi"
+
+msgid "Luba-Katanga"
+msgstr "Kiluba-Katanga"
+
+msgid "Luba-Lulua"
+msgstr "Kiluba-Lulua"
+
+msgid "Lule Sami"
+msgstr "Kisami cha Lule"
+
+msgid "Lunda"
+msgstr "Kilunda"
+
+msgid "Luo"
+msgstr "Kijaluo"
+
+msgid "Luxembourgish"
+msgstr "Kilasembagi"
+
+msgid "Luyia"
+msgstr "Kiluyia"
+
+msgid "Maba"
+msgstr "Kimaba"
+
+msgid "Macedonian"
+msgstr "Kimasedonia"
+
+msgid "Machame"
+msgstr "Kimachame"
+
+msgid "Madurese"
+msgstr "Kimadura"
+
+msgid "Mafa"
+msgstr "Kimafa"
+
+msgid "Magahi"
+msgstr "Kimagahi"
+
+msgid "Maithili"
+msgstr "Kimaithili"
+
+msgid "Makasar"
+msgstr "Kimakasaa"
+
+msgid "Makhuwa-Meetto"
+msgstr "Kimakhuwa-Meetto"
+
+msgid "Makonde"
+msgstr "Kimakonde"
+
+msgid "Malagasy"
+msgstr "Kimalagasi"
+
+msgid "Malay"
+msgstr "Kimalei"
+
+msgid "Malayalam"
+msgstr "Kimalayalam"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "Kimaliseet-Passamaquoddy"
+
+msgid "Maltese"
+msgstr "Kimalta"
+
+msgid "Manipuri"
+msgstr "Kimanipuri"
+
+msgid "Manx"
+msgstr "Kimaniksi"
+
+msgid "Mapuche"
+msgstr "Kimapuche"
+
+msgid "Marathi"
+msgstr "Kimarathi"
+
+msgid "Mari"
+msgstr "Kimari"
+
+msgid "Marshallese"
+msgstr "Kimashali"
+
+msgid "Masai"
+msgstr "Kimasai"
+
+msgid "Mazanderani"
+msgstr "Kimazanderani"
+
+msgid "Medumba"
+msgstr "Kimedumba"
+
+msgid "Mende"
+msgstr "Kimende"
+
+msgid "Meru"
+msgstr "Kimeru"
+
+msgid "Metaʼ"
+msgstr "Kimeta"
+
+msgid "Mexican Spanish"
+msgstr "Kihispania cha Meksiko"
+
+msgid "Mi'kmaw"
+msgstr "Kimi'kmak"
+
+msgid "Michif"
+msgstr "Kimichif"
+
+msgid "Minangkabau"
+msgstr "Kiminangkabau"
+
+msgid "Mirandese"
+msgstr "Kimiranda"
+
+msgid "Mizo"
+msgstr "Kimizo"
+
+msgid "Modern Standard Arabic"
+msgstr "Kiarabu sanifu"
+
+msgid "Mohawk"
+msgstr "Kimohok"
+
+msgid "Moksha"
+msgstr "Kimoksha"
+
+msgid "Moldavian"
+msgstr "Kimoldova cha Romania"
+
+msgid "Mongo"
+msgstr "Kimongo"
+
+msgid "Mongolian"
+msgstr "Kimongolia"
+
+msgid "Moose Cree"
+msgstr "Kimoosekrii"
+
+msgid "Morisyen"
+msgstr "Kimorisi"
+
+msgid "Mossi"
+msgstr "Kimosi"
+
+msgid "Multiple languages"
+msgstr "Lugha nyingi"
+
+msgid "Mundang"
+msgstr "Kimundang"
+
+msgid "Muscogee"
+msgstr "Kimuskogii"
+
+msgid "Māori"
+msgstr "Kimaori"
+
+msgid "Najdi Arabic"
+msgstr "Kiarabu cha Najdi"
+
+msgid "Nama"
+msgstr "Kinama"
+
+msgid "Nauru"
+msgstr "Kinauru"
+
+msgid "Navajo"
+msgstr "Kinavajo"
+
+msgid "Ndonga"
+msgstr "Kindonga"
+
+msgid "Neapolitan"
+msgstr "Kinapoli"
+
+msgid "Nepali"
+msgstr "Kinepali"
+
+msgid "Newari"
+msgstr "Kinewari"
+
+msgid "Ngambay"
+msgstr "Kingambei"
+
+msgid "Ngiemboon"
+msgstr "Kiingiemboon"
+
+msgid "Ngomba"
+msgstr "Kingomba"
+
+msgid "Nheengatu"
+msgstr "Kinheengatu"
+
+msgid "Nias"
+msgstr "Kiniasi"
+
+msgid "Nigerian Pidgin"
+msgstr "Kipijini cha Naijeria"
+
+msgid "Niuean"
+msgstr "Kiniuea"
+
+msgid "No linguistic content"
+msgstr "Hakuna maudhui ya lugha"
+
+msgid "Nogai"
+msgstr "Kinogai"
+
+msgid "North Ndebele"
+msgstr "Kindebele cha Kaskazini"
+
+msgid "Northern East Cree"
+msgstr "Kikrii cha Kaskazini Mashariki"
+
+msgid "Northern Frisian"
+msgstr "Kifrisi cha Kaskazini"
+
+msgid "Northern Luri"
+msgstr "Kiluri cha Kaskazini"
+
+msgid "Northern Sami"
+msgstr "Kisami cha Kaskazini"
+
+msgid "Northern Sotho"
+msgstr "Kisotho cha Kaskazini"
+
+msgid "Northern Tutchone"
+msgstr "Kituchone cha Kaskazini"
+
+msgid "Northwestern Ojibwa"
+msgstr "Kiojibwa cha Kaskazini Magharibi"
+
+msgid "Norwegian"
+msgstr "Kinorwe"
+
+msgid "Norwegian Bokmål"
+msgstr "Kinorwe cha Bokmal"
+
+msgid "Norwegian Nynorsk"
+msgstr "Kinorwe cha Nynorsk"
+
+msgid "Nuer"
+msgstr "Kinuer"
+
+msgid "Nyamwezi"
+msgstr "Kinyamwezi"
+
+msgid "Nyanja"
+msgstr "Kinyanja"
+
+msgid "Nyankole"
+msgstr "Kinyankole"
+
+msgid "Nyoro"
+msgstr "Kinyoro"
+
+msgid "Nzima"
+msgstr "Kinzema"
+
+msgid "N’Ko"
+msgstr "Kiin’ko"
+
+msgid "Obolo"
+msgstr "Kiobolo"
+
+msgid "Occitan"
+msgstr "Kiositia"
+
+msgid "Odia"
+msgstr "Kiodia"
+
+msgid "Oji-Cree"
+msgstr "Kikrii cha Oji"
+
+msgid "Okanagan"
+msgstr "Kiokanagani"
+
+msgid "Old English"
+msgstr "Kiingereza cha Kale"
+
+msgid "Old French"
+msgstr "Kifaransa cha Kale"
+
+msgid "Old Persian"
+msgstr "Kiajemi cha Kale"
+
+msgid "Oromo"
+msgstr "Kioromo"
+
+msgid "Ossetic"
+msgstr "Kiosetia"
+
+msgid "Palauan"
+msgstr "Kipalau"
+
+msgid "Pampanga"
+msgstr "Kipampanga"
+
+msgid "Pangasinan"
+msgstr "Kipangasini"
+
+msgid "Papiamento"
+msgstr "Kipapiamento"
+
+msgid "Pashto"
+msgstr "Kipashto"
+
+msgid "Persian"
+msgstr "Kiajemi"
+
+msgid "Pijin"
+msgstr "Kipijini"
+
+msgid "Plains Cree"
+msgstr "Kikrii cha Chini"
+
+msgid "Polish"
+msgstr "Kipolandi"
+
+msgid "Portuguese"
+msgstr "Kireno"
+
+msgid "Prussian"
+msgstr "Kiprussia"
+
+msgid "Punjabi"
+msgstr "Kipunjabi"
+
+msgid "Pushto"
+msgstr "Kipushto"
+
+msgid "Quechua"
+msgstr "Kikechua"
+
+msgid "Rajasthani"
+msgstr "Kirajasthani"
+
+msgid "Rapanui"
+msgstr "Kirapanui"
+
+msgid "Rarotongan"
+msgstr "Kirarotonga"
+
+msgid "Rohingya"
+msgstr "Kirohingya"
+
+msgid "Romanian"
+msgstr "Kiromania"
+
+msgid "Romansh"
+msgstr "Kirumi"
+
+msgid "Rombo"
+msgstr "Kirombo"
+
+msgid "Rundi"
+msgstr "Kirundi"
+
+msgid "Russian"
+msgstr "Kirusi"
+
+msgid "Rwa"
+msgstr "Kirwa"
+
+msgid "Saamia"
+msgstr "Kisaamia"
+
+msgid "Saho"
+msgstr "Kisaho"
+
+msgid "Samaritan Aramaic"
+msgstr "Kiaramu cha Wasamaria"
+
+msgid "Samburu"
+msgstr "Kisamburu"
+
+msgid "Samoan"
+msgstr "Kisamoa"
+
+msgid "Sandawe"
+msgstr "Kisandawe"
+
+msgid "Sango"
+msgstr "Kisango"
+
+msgid "Sangu"
+msgstr "Kisangu"
+
+msgid "Sanskrit"
+msgstr "Kisanskriti"
+
+msgid "Santali"
+msgstr "Kisantali"
+
+msgid "Sardinian"
+msgstr "Kisadini"
+
+msgid "Scots"
+msgstr "Kiskoti"
+
+msgid "Scottish Gaelic"
+msgstr "Kigaeli cha Uskoti"
+
+msgid "Sena"
+msgstr "Kisena"
+
+msgid "Serbian"
+msgstr "Kiserbia"
+
+msgid "Serbo-Croatian"
+msgstr "Kiserbia-kroeshia"
+
+msgid "Seselwa Creole French"
+msgstr "Krioli ya Shelisheli"
+
+msgid "Shambala"
+msgstr "Kisambala"
+
+msgid "Shan"
+msgstr "Kishani"
+
+msgid "Shona"
+msgstr "Kishona"
+
+msgid "Sichuan Yi"
+msgstr "Kiiyi cha Sichuan"
+
+msgid "Sicilian"
+msgstr "Kisisilia"
+
+msgid "Siksiká"
+msgstr "Kisiksika"
+
+msgid "Simplified Chinese"
+msgstr "Kichina Kilichorahisishwa"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "Kichina cha Kimandarini Kilichorahisishwa"
+
+msgid "Sindhi"
+msgstr "Kisindhi"
+
+msgid "Sinhala"
+msgstr "Kisinhala"
+
+msgid "Skolt Sami"
+msgstr "Kisami cha Skolt"
+
+msgid "Slovak"
+msgstr "Kislovakia"
+
+msgid "Slovenian"
+msgstr "Kislovenia"
+
+msgid "Soga"
+msgstr "Kisoga"
+
+msgid "Somali"
+msgstr "Kisomali"
+
+msgid "Soninke"
+msgstr "Kisoninke"
+
+msgid "South Ndebele"
+msgstr "Kindebele cha Kusini"
+
+msgid "Southern Altai"
+msgstr "Kialtai cha Kusini"
+
+msgid "Southern East Cree"
+msgstr "Kikrii cha Kusini Mashariki"
+
+msgid "Southern Haida"
+msgstr "Kihaida cha Kusini"
+
+msgid "Southern Kurdish"
+msgstr "Kikurdi cha Kusini"
+
+msgid "Southern Lushootseed"
+msgstr "Kilushootseed cha Kusini"
+
+msgid "Southern Sami"
+msgstr "Kisami cha Kusini"
+
+msgid "Southern Sotho"
+msgstr "Kisotho cha Kusini"
+
+msgid "Southern Tutchone"
+msgstr "Kituchone cha Kusini"
+
+msgid "Spanish"
+msgstr "Kihispania"
+
+msgid "Sranan Tongo"
+msgstr "Kisranantongo"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "Kitamazight cha Kawaida cha Moroko"
+
+msgid "Straits Salish"
+msgstr "Kisali cha Straits"
+
+msgid "Sukuma"
+msgstr "Kisukuma"
+
+msgid "Sundanese"
+msgstr "Kisundani"
+
+msgid "Susu"
+msgstr "Kisusu"
+
+msgid "Swahili"
+msgstr "Kiswahili"
+
+msgid "Swampy Cree"
+msgstr "Kikrii cha Kinamasi"
+
+msgid "Swati"
+msgstr "Kiswati"
+
+msgid "Swedish"
+msgstr "Kiswidi"
+
+msgid "Swiss French"
+msgstr "Kifaransa cha Uswisi"
+
+msgid "Swiss German"
+msgstr "Kijerumani cha Uswisi"
+
+msgid "Swiss High German"
+msgstr "Kijerumani cha Kawaida cha Uswisi"
+
+msgid "Syriac"
+msgstr "Kisiria"
+
+msgid "Tachelhit"
+msgstr "Kitachelhit"
+
+msgid "Tagish"
+msgstr "Kitagi"
+
+msgid "Tahitian"
+msgstr "Kitahiti"
+
+msgid "Tahltan"
+msgstr "Kitahlti"
+
+msgid "Taita"
+msgstr "Kitaita"
+
+msgid "Tajik"
+msgstr "Kitajiki"
+
+msgid "Tamil"
+msgstr "Kitamili"
+
+msgid "Taroko"
+msgstr "Kitaroko"
+
+msgid "Tasawaq"
+msgstr "Kitasawak"
+
+msgid "Tatar"
+msgstr "Kitatari"
+
+msgid "Telugu"
+msgstr "Kitelugu"
+
+msgid "Teso"
+msgstr "Kiteso"
+
+msgid "Tetum"
+msgstr "Kitetum"
+
+msgid "Thai"
+msgstr "Kithai"
+
+msgid "Tibetan"
+msgstr "Kitibeti"
+
+msgid "Tigre"
+msgstr "Kitigre"
+
+msgid "Tigrinya"
+msgstr "Kitigrinya"
+
+msgid "Timne"
+msgstr "Kitimne"
+
+msgid "Tlingit"
+msgstr "Kitlingiti"
+
+msgid "Tok Pisin"
+msgstr "Kitokpisin"
+
+msgid "Toki Pona"
+msgstr "Kitokipona"
+
+msgid "Tongan"
+msgstr "Kitonga"
+
+msgid "Traditional Chinese"
+msgstr "Kichina cha Kawaida"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "Kichina cha Kimandarini cha Kawaida"
+
+msgid "Tsonga"
+msgstr "Kisonga"
+
+msgid "Tswana"
+msgstr "Kiswana"
+
+msgid "Tumbuka"
+msgstr "Kitumbuka"
+
+msgid "Turkish"
+msgstr "Kituruki"
+
+msgid "Turkmen"
+msgstr "Kiturukimeni"
+
+msgid "Tuvalu"
+msgstr "Kituvalu"
+
+msgid "Tuvinian"
+msgstr "Kituva"
+
+msgid "Twi"
+msgstr "Kitwi"
+
+msgid "Tyap"
+msgstr "Kityap"
+
+msgid "UK English"
+msgstr "Kiingereza cha Uingereza"
+
+msgid "US English"
+msgstr "Kiingereza cha Marekani)"
+
+msgid "Udmurt"
+msgstr "Kiudumurti"
+
+msgid "Ukrainian"
+msgstr "Kiukreni"
+
+msgid "Umbundu"
+msgstr "Kiumbundu"
+
+msgid "Unknown language"
+msgstr "Lugha isiyojulikana"
+
+msgid "Upper Sorbian"
+msgstr "Kisorbia cha Juu"
+
+msgid "Urdu"
+msgstr "Kiurdu"
+
+msgid "Uyghur"
+msgstr "Kiuiguri"
+
+msgid "Uzbek"
+msgstr "Kiuzbeki"
+
+msgid "Vai"
+msgstr "Kivai"
+
+msgid "Venda"
+msgstr "Kivenda"
+
+msgid "Vietnamese"
+msgstr "Kivietinamu"
+
+msgid "Volapük"
+msgstr "Kivolapuk"
+
+msgid "Vunjo"
+msgstr "Kivunjo"
+
+msgid "Walloon"
+msgstr "Kiwaluni"
+
+msgid "Walser"
+msgstr "Kiwalsa"
+
+msgid "Waray"
+msgstr "Kiwarai"
+
+msgid "Warlpiri"
+msgstr "Kiwarlpiri"
+
+msgid "Welsh"
+msgstr "Kiwels"
+
+msgid "Western Balochi"
+msgstr "Kibalochi cha Magharibi"
+
+msgid "Western Canadian Inuktitut"
+msgstr "Kiinuktitut cha Kanada Magharibi"
+
+msgid "Western Frisian"
+msgstr "Kifrisi cha Magharibi"
+
+msgid "Western Ojibwa"
+msgstr "Kiojibwa cha Magharibi"
+
+msgid "Wolaytta"
+msgstr "Kiwolaitta"
+
+msgid "Wolof"
+msgstr "Kiwolof"
+
+msgid "Wu Chinese"
+msgstr "Kichina cha Wu"
+
+msgid "Xhosa"
+msgstr "Kikhosa"
+
+msgid "Yakut"
+msgstr "Kisakha"
+
+msgid "Yangben"
+msgstr "Kiyangbeni"
+
+msgid "Yao"
+msgstr "Kiyao"
+
+msgid "Yemba"
+msgstr "Kiyemba"
+
+msgid "Yiddish"
+msgstr "Kiyidi"
+
+msgid "Yoruba"
+msgstr "Kiyoruba"
+
+msgid "Zarma"
+msgstr "Kizama"
+
+msgid "Zaza"
+msgstr "Kizaza"
+
+msgid "Zulu"
+msgstr "Kizulu"
+
+msgid "Zuni"
+msgstr "Kizuni"

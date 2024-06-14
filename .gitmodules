@@ -1,0 +1,15 @@
+[submodule "modules/gettext"]
+	path = modules/gettext
+	url = https://git.savannah.gnu.org/git/gettext.git
+[submodule "modules/l10n-guide"]
+	path = modules/l10n-guide
+	url = https://github.com/translate/l10n-guide.git
+[submodule "modules/iso-codes"]
+	path = modules/iso-codes
+	url = https://salsa.debian.org/iso-codes-team/iso-codes.git
+[submodule "modules/cldr-json"]
+	path = modules/cldr-json
+	url = https://github.com/unicode-org/cldr-json.git
+[submodule "modules/qttools"]
+	path = modules/qttools
+	url = https://github.com/qt/qttools.git

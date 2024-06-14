@@ -1,0 +1,1374 @@
+# CLDR language names for hsb
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: hsb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+msgid "Abkhazian"
+msgstr "abchazišćina"
+
+msgid "Acehnese"
+msgstr "achinezišćina"
+
+msgid "Adangme"
+msgstr "adangmešćina"
+
+msgid "Adyghe"
+msgstr "adyghešćina"
+
+msgid "Afar"
+msgstr "afaršćina"
+
+msgid "Afrikaans"
+msgstr "afrikaanšćina"
+
+msgid "Aghem"
+msgstr "aghemšćina"
+
+msgid "Ainu"
+msgstr "ainušćina"
+
+msgid "Akan"
+msgstr "akanšćina"
+
+msgid "Albanian"
+msgstr "albanšćina"
+
+msgid "Aleut"
+msgstr "aleutišćina"
+
+msgid "American English"
+msgstr "ameriska jendźelšćina"
+
+msgid "Amharic"
+msgstr "amharšćina"
+
+msgid "Angika"
+msgstr "angikašćina"
+
+msgid "Arabic"
+msgstr "arabšćina"
+
+msgid "Aragonese"
+msgstr "aragonšćina"
+
+msgid "Arapaho"
+msgstr "arapahošćina"
+
+msgid "Armenian"
+msgstr "armenšćina"
+
+msgid "Aromanian"
+msgstr "armanianšćina"
+
+msgid "Assamese"
+msgstr "asamšćina"
+
+msgid "Asturian"
+msgstr "asturšćina"
+
+msgid "Asu"
+msgstr "pare"
+
+msgid "Atikamekw"
+msgstr "atikamekwišćina"
+
+msgid "Australian English"
+msgstr "awstralska jendźelšćina"
+
+msgid "Austrian German"
+msgstr "awstriska němčina"
+
+msgid "Avaric"
+msgstr "awaršćina"
+
+msgid "Awadhi"
+msgstr "awandhišćina"
+
+msgid "Aymara"
+msgstr "aymaršćina"
+
+msgid "Azerbaijani"
+msgstr "azerbajdźanšćina"
+
+msgid "Azeri"
+msgstr "azerbajdźanšćina"
+
+msgid "Bafia"
+msgstr "bafia"
+
+msgid "Balinese"
+msgstr "balinezišćina"
+
+msgid "Bambara"
+msgstr "bambara"
+
+msgid "Bangla"
+msgstr "bengalšćina"
+
+msgid "Basaa"
+msgstr "basaa"
+
+msgid "Bashkir"
+msgstr "baškiršćina"
+
+msgid "Basque"
+msgstr "baskišćina"
+
+msgid "Belarusian"
+msgstr "běłorušćina"
+
+msgid "Bemba"
+msgstr "bemba"
+
+msgid "Bena"
+msgstr "bena"
+
+msgid "Bhojpuri"
+msgstr "bhojpurišćina"
+
+msgid "Bini"
+msgstr "binišćina"
+
+msgid "Bislama"
+msgstr "bislamšćina"
+
+msgid "Blin"
+msgstr "blinšćina"
+
+msgid "Bodo"
+msgstr "bodo"
+
+msgid "Bosnian"
+msgstr "bosnišćina"
+
+msgid "Brazilian Portuguese"
+msgstr "brazilska portugalšćina"
+
+msgid "Breton"
+msgstr "bretonšćina"
+
+msgid "British English"
+msgstr "britiska jendźelšćina"
+
+msgid "Buginese"
+msgstr "buginezišćina"
+
+msgid "Bulgarian"
+msgstr "bołharšćina"
+
+msgid "Burmese"
+msgstr "burmašćina"
+
+msgid "Cajun French"
+msgstr "cajun francošćina"
+
+msgid "Canadian English"
+msgstr "kanadiska jendźelšćina"
+
+msgid "Canadian French"
+msgstr "kanadiska francošćina"
+
+msgid "Cantonese"
+msgstr "kantonšćina"
+
+msgid "Carolina Algonquian"
+msgstr "carolina algonquianšćina"
+
+msgid "Catalan"
+msgstr "katalanšćina"
+
+msgid "Cayuga"
+msgstr "cayugašćina"
+
+msgid "Cebuano"
+msgstr "cebuanšćina"
+
+msgid "Central Atlas Tamazight"
+msgstr "tamazight (srjedźny Marokko)"
+
+msgid "Central Kurdish"
+msgstr "sorani"
+
+msgid "Central Ojibwa"
+msgstr "centralna ojibwašćina"
+
+msgid "Chakma"
+msgstr "čakma"
+
+msgid "Chamorro"
+msgstr "čamoršćina"
+
+msgid "Chechen"
+msgstr "čečenšćina"
+
+msgid "Cherokee"
+msgstr "cherokee"
+
+msgid "Cheyenne"
+msgstr "cheyennešćina"
+
+msgid "Chiga"
+msgstr "chiga"
+
+msgid "Chilcotin"
+msgstr "chilcotinšćina"
+
+msgid "Chinese"
+msgstr "chinšćina"
+
+msgid "Chinese, Cantonese"
+msgstr "chinšćina (kantonšćina)"
+
+msgid "Chinese, Mandarin"
+msgstr "chinšćina (mandarin)"
+
+msgid "Chipewyan"
+msgstr "chipewyanšćina"
+
+msgid "Choctaw"
+msgstr "choctawšćina"
+
+msgid "Church Slavic"
+msgstr "cyrkwinosłowjanšćina"
+
+msgid "Chuukese"
+msgstr "chuukezišćina"
+
+msgid "Chuvash"
+msgstr "chuvashišćina"
+
+msgid "Colognian"
+msgstr "kelnšćina"
+
+msgid "Comorian"
+msgstr "comorianšćina"
+
+msgid "Congo Swahili"
+msgstr "kongoska suahelšćina"
+
+msgid "Cornish"
+msgstr "kornišćina"
+
+msgid "Corsican"
+msgstr "korsišćina"
+
+msgid "Cree"
+msgstr "kri"
+
+msgid "Croatian"
+msgstr "chorwatšćina"
+
+msgid "Czech"
+msgstr "čěšćina"
+
+msgid "Dakota"
+msgstr "dakotašćina"
+
+msgid "Danish"
+msgstr "danšćina"
+
+msgid "Dargwa"
+msgstr "dargwašćina"
+
+msgid "Dari"
+msgstr "dari"
+
+msgid "Dazaga"
+msgstr "dazagašćina"
+
+msgid "Divehi"
+msgstr "divehi"
+
+msgid "Dogri"
+msgstr "dogrišćina"
+
+msgid "Dogrib"
+msgstr "dogribšćina"
+
+msgid "Duala"
+msgstr "duala"
+
+msgid "Dutch"
+msgstr "nižozemšćina"
+
+msgid "Dzongkha"
+msgstr "dzongkha"
+
+msgid "Efik"
+msgstr "efikšćina"
+
+msgid "Ekajuk"
+msgstr "ekajukšćina"
+
+msgid "Embu"
+msgstr "embu"
+
+msgid "English"
+msgstr "jendźelšćina"
+
+msgid "Erzya"
+msgstr "erzyašćina"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Estonian"
+msgstr "estišćina"
+
+msgid "European Portuguese"
+msgstr "europska portugalšćina"
+
+msgid "European Spanish"
+msgstr "europska španišćina"
+
+msgid "Ewe"
+msgstr "ewe"
+
+msgid "Ewondo"
+msgstr "ewondo"
+
+msgid "Faroese"
+msgstr "färöšćina"
+
+msgid "Fijian"
+msgstr "fidźišćina"
+
+msgid "Filipino"
+msgstr "filipinšćina"
+
+msgid "Finnish"
+msgstr "finšćina"
+
+msgid "Flemish"
+msgstr "flamšćina"
+
+msgid "Fon"
+msgstr "fonšćina"
+
+msgid "French"
+msgstr "francošćina"
+
+msgid "Friulian"
+msgstr "friulšćina"
+
+msgid "Fula"
+msgstr "fulbšćina"
+
+msgid "Ga"
+msgstr "gašćina"
+
+msgid "Gagauz"
+msgstr "gagauzišćina"
+
+msgid "Galician"
+msgstr "galicišćina"
+
+msgid "Ganda"
+msgstr "gandšćina"
+
+msgid "Geez"
+msgstr "geezišćina"
+
+msgid "Georgian"
+msgstr "georgišćina"
+
+msgid "German"
+msgstr "němčina"
+
+msgid "Gilbertese"
+msgstr "gilbertezišćina"
+
+msgid "Gorontalo"
+msgstr "gorontalošćina"
+
+msgid "Gothic"
+msgstr "gotšćina"
+
+msgid "Greek"
+msgstr "grjekšćina"
+
+msgid "Guarani"
+msgstr "guarani"
+
+msgid "Gujarati"
+msgstr "gujarati"
+
+msgid "Gusii"
+msgstr "gusii"
+
+msgid "Gwichʼin"
+msgstr "gwichʼinšćina"
+
+msgid "Haida"
+msgstr "haidašćina"
+
+msgid "Haitian Creole"
+msgstr "haitišćina"
+
+msgid "Halkomelem"
+msgstr "halkomelemšćina"
+
+msgid "Haryanvi"
+msgstr "haryanvi"
+
+msgid "Hausa"
+msgstr "hausa"
+
+msgid "Hawaiian"
+msgstr "hawaiišćina"
+
+msgid "Hebrew"
+msgstr "hebrejšćina"
+
+msgid "Herero"
+msgstr "hererošćina"
+
+msgid "Hiligaynon"
+msgstr "hiligaynonšćina"
+
+msgid "Hindi"
+msgstr "hindišćina"
+
+msgid "Hmong"
+msgstr "hmongšćina"
+
+msgid "Hungarian"
+msgstr "madźaršćina"
+
+msgid "Hupa"
+msgstr "hupašćina"
+
+msgid "Iban"
+msgstr "ibanšćina"
+
+msgid "Ibibio"
+msgstr "ibibiošćina"
+
+msgid "Icelandic"
+msgstr "islandšćina"
+
+msgid "Ido"
+msgstr "ido"
+
+msgid "Igbo"
+msgstr "igbo"
+
+msgid "Iloko"
+msgstr "ilokošćina"
+
+msgid "Inari Sami"
+msgstr "inari-samišćina"
+
+msgid "Indonesian"
+msgstr "indonešćina"
+
+msgid "Ingush"
+msgstr "ingushišćina"
+
+msgid "Innu-aimun"
+msgstr "innu-aimunšćina"
+
+msgid "Interlingua"
+msgstr "interlingua"
+
+msgid "Inuktitut"
+msgstr "inuitšćina"
+
+msgid "Inupiaq"
+msgstr "inupiak"
+
+msgid "Irish"
+msgstr "iršćina"
+
+msgid "Italian"
+msgstr "italšćina"
+
+msgid "Japanese"
+msgstr "japanšćina"
+
+msgid "Javanese"
+msgstr "javašćina"
+
+msgid "Jju"
+msgstr "jjušćina"
+
+msgid "Jola-Fonyi"
+msgstr "jola-fonyi"
+
+msgid "Kabardian"
+msgstr "kabardianšćina"
+
+msgid "Kabuverdianu"
+msgstr "kapverdšćina"
+
+msgid "Kabyle"
+msgstr "kabylšćina"
+
+msgid "Kachin"
+msgstr "kachinšćina"
+
+msgid "Kaingang"
+msgstr "kaingangšćina"
+
+msgid "Kako"
+msgstr "kako"
+
+msgid "Kalaallisut"
+msgstr "gröndlandšćina"
+
+msgid "Kalenjin"
+msgstr "kalenjin"
+
+msgid "Kalmyk"
+msgstr "kalmykšćina"
+
+msgid "Kamba"
+msgstr "kamba"
+
+msgid "Kannada"
+msgstr "kannadšćina"
+
+msgid "Kanuri"
+msgstr "kanurišćina"
+
+msgid "Karachay-Balkar"
+msgstr "karachay-balkaršćina"
+
+msgid "Karelian"
+msgstr "karelianšćina"
+
+msgid "Kashmiri"
+msgstr "kašmiršćina"
+
+msgid "Kazakh"
+msgstr "kazachšćina"
+
+msgid "Khasi"
+msgstr "khasišćina"
+
+msgid "Khmer"
+msgstr "khmeršćina"
+
+msgid "Kikuyu"
+msgstr "kikuyu"
+
+msgid "Kimbundu"
+msgstr "kimbundušćina"
+
+msgid "Kinyarwanda"
+msgstr "kinjarwanda"
+
+msgid "Klingon"
+msgstr "klingonšćina"
+
+msgid "Komi"
+msgstr "komišćina"
+
+msgid "Komi-Permyak"
+msgstr "permska komišćina"
+
+msgid "Konkani"
+msgstr "konkani"
+
+msgid "Korean"
+msgstr "korejšćina"
+
+msgid "Koro"
+msgstr "korošćina"
+
+msgid "Koyra Chiini"
+msgstr "koyra chiini"
+
+msgid "Koyraboro Senni"
+msgstr "koyra senni"
+
+msgid "Kpelle"
+msgstr "kpellešćina"
+
+msgid "Kuanyama"
+msgstr "kuanyamašćina"
+
+msgid "Kumyk"
+msgstr "kumykšćina"
+
+msgid "Kurdish"
+msgstr "kurdišćina"
+
+msgid "Kurdish, Central"
+msgstr "sorani"
+
+msgid "Kurdish, Sorani"
+msgstr "centralna kurdišćina"
+
+msgid "Kurukh"
+msgstr "kurukhšćina"
+
+msgid "Kwakʼwala"
+msgstr "kwakʼwalašćina"
+
+msgid "Kwasio"
+msgstr "kwasio"
+
+msgid "Kyrgyz"
+msgstr "kirgišćina"
+
+msgid "Kʼicheʼ"
+msgstr "kʼicheʼ"
+
+msgid "Ladino"
+msgstr "ladinšćina"
+
+msgid "Lakota"
+msgstr "lakota"
+
+msgid "Langi"
+msgstr "langi"
+
+msgid "Lao"
+msgstr "laošćina"
+
+msgid "Latin"
+msgstr "łaćonšćina"
+
+msgid "Latin American Spanish"
+msgstr "łaćonskoameriska španišćina"
+
+msgid "Latvian"
+msgstr "letišćina"
+
+msgid "Lezghian"
+msgstr "lezgianšćina"
+
+msgid "Lillooet"
+msgstr "lillooetšćina"
+
+msgid "Limburgish"
+msgstr "limburšćina"
+
+msgid "Lingala"
+msgstr "lingala"
+
+msgid "Lithuanian"
+msgstr "litawšćina"
+
+msgid "Lojban"
+msgstr "lojbanšćina"
+
+msgid "Louisiana Creole"
+msgstr "Louisiana kreolšćina"
+
+msgid "Low German"
+msgstr "delnjoněmčina"
+
+msgid "Lower Sorbian"
+msgstr "delnjoserbšćina"
+
+msgid "Lozi"
+msgstr "lozišćina"
+
+msgid "Luba-Katanga"
+msgstr "luba-katanga"
+
+msgid "Luba-Lulua"
+msgstr "luba-luluašćina"
+
+msgid "Lule Sami"
+msgstr "lule-samišćina"
+
+msgid "Lunda"
+msgstr "lundašćina"
+
+msgid "Luxembourgish"
+msgstr "luxemburgšćina"
+
+msgid "Luyia"
+msgstr "luhya"
+
+msgid "Macedonian"
+msgstr "makedonšćina"
+
+msgid "Machame"
+msgstr "machame"
+
+msgid "Madurese"
+msgstr "madurezišćina"
+
+msgid "Magahi"
+msgstr "magahišćina"
+
+msgid "Maithili"
+msgstr "maithilšćina"
+
+msgid "Makasar"
+msgstr "makasaršćina"
+
+msgid "Makhuwa-Meetto"
+msgstr "makhuwa-meetto"
+
+msgid "Makonde"
+msgstr "makonde"
+
+msgid "Malagasy"
+msgstr "malagassišćina"
+
+msgid "Malay"
+msgstr "malajšćina"
+
+msgid "Malayalam"
+msgstr "malajamšćina"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "maliseet-passamaquoddyšćina"
+
+msgid "Maltese"
+msgstr "maltašćina"
+
+msgid "Manipuri"
+msgstr "manipuršćina"
+
+msgid "Manx"
+msgstr "manšćina"
+
+msgid "Mapuche"
+msgstr "arawkanšćina"
+
+msgid "Marathi"
+msgstr "maratišćina"
+
+msgid "Mari"
+msgstr "marišćina"
+
+msgid "Marshallese"
+msgstr "marshallezišćina"
+
+msgid "Masai"
+msgstr "masaišćina"
+
+msgid "Mazanderani"
+msgstr "mazanderanšćina"
+
+msgid "Mende"
+msgstr "mendišćina"
+
+msgid "Meru"
+msgstr "meru"
+
+msgid "Metaʼ"
+msgstr "meta’"
+
+msgid "Mexican Spanish"
+msgstr "mexiska španišćina"
+
+msgid "Mi'kmaw"
+msgstr "mi'kmaqšćina"
+
+msgid "Michif"
+msgstr "michifšćina"
+
+msgid "Minangkabau"
+msgstr "minangkabaušćina"
+
+msgid "Mirandese"
+msgstr "mirandezišćina"
+
+msgid "Mizo"
+msgstr "mizošćina"
+
+msgid "Modern Standard Arabic"
+msgstr "moderna wysokoarabšćina"
+
+msgid "Mohawk"
+msgstr "mohawkšćina"
+
+msgid "Moksha"
+msgstr "mokshašćina"
+
+msgid "Moldavian"
+msgstr "moldawšćina"
+
+msgid "Mongolian"
+msgstr "mongolšćina"
+
+msgid "Moose Cree"
+msgstr "moode creešćina"
+
+msgid "Morisyen"
+msgstr "mauriciska kreolšćina"
+
+msgid "Mossi"
+msgstr "mossišćina"
+
+msgid "Multiple languages"
+msgstr "wjacerěčne"
+
+msgid "Mundang"
+msgstr "mundang"
+
+msgid "Muscogee"
+msgstr "krik"
+
+msgid "Māori"
+msgstr "maoršćina"
+
+msgid "Najdi Arabic"
+msgstr "najdi arabšćina"
+
+msgid "Nama"
+msgstr "nama"
+
+msgid "Nauru"
+msgstr "naurušćina"
+
+msgid "Navajo"
+msgstr "navaho"
+
+msgid "Ndonga"
+msgstr "ndongašćina"
+
+msgid "Neapolitan"
+msgstr "neapolitanšćina"
+
+msgid "Nepali"
+msgstr "nepalšćina"
+
+msgid "Newari"
+msgstr "newarišćina"
+
+msgid "Ngambay"
+msgstr "ngambayšćina"
+
+msgid "Ngiemboon"
+msgstr "ngiemboon"
+
+msgid "Ngomba"
+msgstr "ngomba"
+
+msgid "Nheengatu"
+msgstr "nheengatušćina"
+
+msgid "Nias"
+msgstr "niazišćina"
+
+msgid "Nigerian Pidgin"
+msgstr "nigerijanski pidgin"
+
+msgid "Niuean"
+msgstr "niueanšćina"
+
+msgid "No linguistic content"
+msgstr "žadyn rěčny wobsah"
+
+msgid "Nogai"
+msgstr "nogaišćina"
+
+msgid "North Ndebele"
+msgstr "sewjero-ndebele"
+
+msgid "Northern East Cree"
+msgstr "sewjernowuchodna creešćina"
+
+msgid "Northern Frisian"
+msgstr "sewjernofrizišćina"
+
+msgid "Northern Luri"
+msgstr "sewjerna lurišćina"
+
+msgid "Northern Sami"
+msgstr "sewjerosamišćina"
+
+msgid "Northern Sotho"
+msgstr "sewjerna sothošćina"
+
+msgid "Northern Tutchone"
+msgstr "sewjerna tutchonšćina"
+
+msgid "Northwestern Ojibwa"
+msgstr "sewjernozapadna ojibwašćina"
+
+msgid "Norwegian"
+msgstr "norwegšćina"
+
+msgid "Norwegian Bokmål"
+msgstr "norwegšćina (bokmål)"
+
+msgid "Norwegian Nynorsk"
+msgstr "norwegšćina (nynorsk)"
+
+msgid "Nuer"
+msgstr "nuer"
+
+msgid "Nyanja"
+msgstr "nyanja"
+
+msgid "Nyankole"
+msgstr "nyankole"
+
+msgid "N’Ko"
+msgstr "n’ko"
+
+msgid "Obolo"
+msgstr "obološćina"
+
+msgid "Occitan"
+msgstr "okcitanšćina"
+
+msgid "Odia"
+msgstr "orijšćina"
+
+msgid "Oji-Cree"
+msgstr "oji-creešćina"
+
+msgid "Okanagan"
+msgstr "okanaganšćina"
+
+msgid "Old English"
+msgstr "anglosakšćina"
+
+msgid "Oromo"
+msgstr "oromo"
+
+msgid "Ossetic"
+msgstr "osetšćina"
+
+msgid "Palauan"
+msgstr "palauanšćina"
+
+msgid "Pampanga"
+msgstr "pampangašćina"
+
+msgid "Pangasinan"
+msgstr "pangasinanšćina"
+
+msgid "Papiamento"
+msgstr "papiamentošćina"
+
+msgid "Pashto"
+msgstr "paštunšćina"
+
+msgid "Persian"
+msgstr "persišćina"
+
+msgid "Pijin"
+msgstr "pijinšćina"
+
+msgid "Plains Cree"
+msgstr "plains creešćina"
+
+msgid "Polish"
+msgstr "pólšćina"
+
+msgid "Portuguese"
+msgstr "portugalšćina"
+
+msgid "Prussian"
+msgstr "prušćina"
+
+msgid "Punjabi"
+msgstr "pandźabšćina"
+
+msgid "Quechua"
+msgstr "kečua"
+
+msgid "Rajasthani"
+msgstr "rajasthani"
+
+msgid "Rapanui"
+msgstr "rapanuišćina"
+
+msgid "Rarotongan"
+msgstr "rarotonganšćina"
+
+msgid "Rohingya"
+msgstr "rohingyašćina"
+
+msgid "Romanian"
+msgstr "rumunšćina"
+
+msgid "Romansh"
+msgstr "retoromanšćina"
+
+msgid "Rombo"
+msgstr "rombo"
+
+msgid "Rundi"
+msgstr "kirundišćina"
+
+msgid "Russian"
+msgstr "rušćina"
+
+msgid "Rwa"
+msgstr "rwa"
+
+msgid "Saamia"
+msgstr "saamiašćina"
+
+msgid "Samburu"
+msgstr "samburu"
+
+msgid "Samoan"
+msgstr "samoašćina"
+
+msgid "Sandawe"
+msgstr "sandawešćina"
+
+msgid "Sango"
+msgstr "sango"
+
+msgid "Sangu"
+msgstr "sangu"
+
+msgid "Sanskrit"
+msgstr "sanskrit"
+
+msgid "Santali"
+msgstr "santalšćina"
+
+msgid "Sardinian"
+msgstr "sardinšćina"
+
+msgid "Saterland Frisian"
+msgstr "saterfrizišćina"
+
+msgid "Scots"
+msgstr "scotšćina"
+
+msgid "Scottish Gaelic"
+msgstr "šotiska gelšćina"
+
+msgid "Sena"
+msgstr "sena"
+
+msgid "Serbian"
+msgstr "serbišćina"
+
+msgid "Serbo-Croatian"
+msgstr "serbochorwatšćina"
+
+msgid "Shambala"
+msgstr "šambala"
+
+msgid "Shan"
+msgstr "shanšćina"
+
+msgid "Shona"
+msgstr "šonašćina"
+
+msgid "Sichuan Yi"
+msgstr "sichuan yi"
+
+msgid "Sicilian"
+msgstr "sicilšćina"
+
+msgid "Siksiká"
+msgstr "siksikášćina"
+
+msgid "Simplified Chinese"
+msgstr "chinšćina (zjednorjena)"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "chinšćina (zjednorjena)"
+
+msgid "Sindhi"
+msgstr "sindhišćina"
+
+msgid "Sinhala"
+msgstr "singhalšćina"
+
+msgid "Skolt Sami"
+msgstr "skolt-samišćina"
+
+msgid "Slovak"
+msgstr "słowakšćina"
+
+msgid "Slovenian"
+msgstr "słowjenšćina"
+
+msgid "Soga"
+msgstr "soga"
+
+msgid "Somali"
+msgstr "somališćina"
+
+msgid "Soninke"
+msgstr "soninkešćina"
+
+msgid "South Ndebele"
+msgstr "južna ndebelšćina"
+
+msgid "Southern Altai"
+msgstr "južna altaišćina"
+
+msgid "Southern East Cree"
+msgstr "južnowuchodna creešćina"
+
+msgid "Southern Haida"
+msgstr "južna haidašćina"
+
+msgid "Southern Lushootseed"
+msgstr "južna lushootseedšćina"
+
+msgid "Southern Sami"
+msgstr "južnosamišćina"
+
+msgid "Southern Sotho"
+msgstr "južnosotšćina (Sesotho)"
+
+msgid "Southern Tutchone"
+msgstr "južna tutchonšćina"
+
+msgid "Spanish"
+msgstr "španišćina"
+
+msgid "Sranan Tongo"
+msgstr "sranan tongošćina"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "tamazight"
+
+msgid "Straits Salish"
+msgstr "straits salishšćina"
+
+msgid "Sukuma"
+msgstr "sukumašćina"
+
+msgid "Sundanese"
+msgstr "sundanezišćina"
+
+msgid "Swahili"
+msgstr "suahelšćina"
+
+msgid "Swampy Cree"
+msgstr "swampy creešćina"
+
+msgid "Swati"
+msgstr "siswati"
+
+msgid "Swedish"
+msgstr "šwedšćina"
+
+msgid "Swiss French"
+msgstr "šwicarska francošćina"
+
+msgid "Swiss German"
+msgstr "šwicarska němčina"
+
+msgid "Swiss High German"
+msgstr "šwicarska wysokoněmčina"
+
+msgid "Syriac"
+msgstr "syriacšćina"
+
+msgid "Tachelhit"
+msgstr "tašelhit"
+
+msgid "Tagalog"
+msgstr "tagalog"
+
+msgid "Tagish"
+msgstr "tagishšćina"
+
+msgid "Tahitian"
+msgstr "tahitišćina"
+
+msgid "Tahltan"
+msgstr "tahltanšćina"
+
+msgid "Taita"
+msgstr "taita"
+
+msgid "Tajik"
+msgstr "tadźikšćina"
+
+msgid "Tamil"
+msgstr "tamilšćina"
+
+msgid "Taroko"
+msgstr "tarokošćina"
+
+msgid "Tasawaq"
+msgstr "tasawaq"
+
+msgid "Tatar"
+msgstr "tataršćina"
+
+msgid "Telugu"
+msgstr "telugu"
+
+msgid "Teso"
+msgstr "teso"
+
+msgid "Tetum"
+msgstr "tetumšćina"
+
+msgid "Thai"
+msgstr "thailandšćina"
+
+msgid "Tibetan"
+msgstr "tibetšćina"
+
+msgid "Tigre"
+msgstr "tigrešćina"
+
+msgid "Tigrinya"
+msgstr "tigrinšćina"
+
+msgid "Timne"
+msgstr "timnešćina"
+
+msgid "Tlingit"
+msgstr "tlingitšćina"
+
+msgid "Tok Pisin"
+msgstr "tok pisinšćina"
+
+msgid "Toki Pona"
+msgstr "toki ponašćina"
+
+msgid "Tongan"
+msgstr "tongašćina"
+
+msgid "Traditional Chinese"
+msgstr "chinšćina (tradicionalna)"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "chinšćina (tradicionalna)"
+
+msgid "Tsonga"
+msgstr "tsonga"
+
+msgid "Tswana"
+msgstr "tswana"
+
+msgid "Tumbuka"
+msgstr "tumbukašćina"
+
+msgid "Turkish"
+msgstr "turkowšćina"
+
+msgid "Turkmen"
+msgstr "turkmenšćina"
+
+msgid "Tuvalu"
+msgstr "tuvalušćina"
+
+msgid "Tuvinian"
+msgstr "tuvinianšćina"
+
+msgid "Twi"
+msgstr "twi"
+
+msgid "Tyap"
+msgstr "tyapšćina"
+
+msgid "UK English"
+msgstr "jendźelšćina (UK)"
+
+msgid "US English"
+msgstr "jendźelšćina (USA)"
+
+msgid "Udmurt"
+msgstr "udmurtšćina"
+
+msgid "Ukrainian"
+msgstr "ukrainšćina"
+
+msgid "Umbundu"
+msgstr "umbundušćina"
+
+msgid "Unknown language"
+msgstr "njeznata rěč"
+
+msgid "Upper Sorbian"
+msgstr "hornjoserbšćina"
+
+msgid "Urdu"
+msgstr "urdušćina"
+
+msgid "Uyghur"
+msgstr "ujguršćina"
+
+msgid "Uzbek"
+msgstr "uzbekšćina"
+
+msgid "Venda"
+msgstr "vendašćina"
+
+msgid "Vietnamese"
+msgstr "vietnamšćina"
+
+msgid "Volapük"
+msgstr "volapük"
+
+msgid "Vunjo"
+msgstr "vunjo"
+
+msgid "Walloon"
+msgstr "walonšćina"
+
+msgid "Walser"
+msgstr "walzeršćina"
+
+msgid "Waray"
+msgstr "warayšćina"
+
+msgid "Welsh"
+msgstr "walizišćina"
+
+msgid "Western Canadian Inuktitut"
+msgstr "zapadnokanadska inuktitutšćina"
+
+msgid "Western Frisian"
+msgstr "frizišćina"
+
+msgid "Western Ojibwa"
+msgstr "zapadna ojibwašćina"
+
+msgid "Wolaytta"
+msgstr "wolayttašćina"
+
+msgid "Wolof"
+msgstr "wolof"
+
+msgid "Wu Chinese"
+msgstr "wu chinšćina"
+
+msgid "Xhosa"
+msgstr "xhosa"
+
+msgid "Yakut"
+msgstr "jakutšćina"
+
+msgid "Yangben"
+msgstr "yangben"
+
+msgid "Yemba"
+msgstr "yembašćina"
+
+msgid "Yiddish"
+msgstr "jidišćina"
+
+msgid "Yoruba"
+msgstr "jorubašćina"
+
+msgid "Zarma"
+msgstr "zarma"
+
+msgid "Zaza"
+msgstr "zazašćina"
+
+msgid "Zhuang"
+msgstr "zhuang"
+
+msgid "Zulu"
+msgstr "zulušćina"
+
+msgid "Zuni"
+msgstr "zunišćina"

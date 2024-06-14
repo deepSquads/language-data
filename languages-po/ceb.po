@@ -1,0 +1,132 @@
+# CLDR language names for ceb
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: ceb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+msgid "American English"
+msgstr "English sa America"
+
+msgid "Arabic"
+msgstr "Arabic"
+
+msgid "Australian English"
+msgstr "English sa Australia"
+
+msgid "Austrian German"
+msgstr "Austrian German"
+
+msgid "Bangla"
+msgstr "Bangla"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilyanong Portuguese"
+
+msgid "British English"
+msgstr "Britanikong English"
+
+msgid "Canadian English"
+msgstr "English sa Canada"
+
+msgid "Canadian French"
+msgstr "Pranses sa Canada"
+
+msgid "Cebuano"
+msgstr "Cebuano"
+
+msgid "Chinese"
+msgstr "Inintsik"
+
+msgid "Chinese, Mandarin"
+msgstr "Chinese, Mandarin"
+
+msgid "Dutch"
+msgstr "Dutch"
+
+msgid "English"
+msgstr "English"
+
+msgid "European Portuguese"
+msgstr "Portuguese sa Europe"
+
+msgid "European Spanish"
+msgstr "Espanyol (Europa)"
+
+msgid "Flemish"
+msgstr "Flemish"
+
+msgid "French"
+msgstr "Pranses"
+
+msgid "German"
+msgstr "German"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hinglish"
+msgstr "Hinglish"
+
+msgid "Indonesian"
+msgstr "Indonesian"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese"
+msgstr "Hinapon"
+
+msgid "Korean"
+msgstr "Korean"
+
+msgid "Modern Standard Arabic"
+msgstr "Modernong Standard nga Arabic"
+
+msgid "Polish"
+msgstr "Polish"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "Russian"
+msgstr "Russian"
+
+msgid "Simplified Chinese"
+msgstr "Pinasimpleng Chinese"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "Pinasimpleng Mandarin Chinese"
+
+msgid "Spanish"
+msgstr "Espanyol"
+
+msgid "Swiss French"
+msgstr "Pranses sa Switzerland"
+
+msgid "Swiss High German"
+msgstr "Swiss High German"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Traditional Chinese"
+msgstr "Tradisyonal nga Chinese"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "Tradisyonal nga Mandarin Chinese"
+
+msgid "Turkish"
+msgstr "Turkish"
+
+msgid "UK English"
+msgstr "English sa UK"
+
+msgid "Unknown language"
+msgstr "Wala Mailhing Pinulongan"
