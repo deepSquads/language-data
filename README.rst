@@ -1,8 +1,3 @@
-.. image:: https://s.deepsquads.org/cdn/Logo-Darktext-borders.png
-   :alt: Deepsquads
-   :target: https://deepsquads.org/
-   :height: 80px
-
 **Deepsquads is libre software web-based continuous localization system,
 used by over 2500 libre projects and companies in more than 165 countries.**
 
