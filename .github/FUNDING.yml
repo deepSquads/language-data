@@ -1,10 +1,10 @@
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: CC0-1.0
 
-# This file is maintained in https://github.com/WeblateOrg/meta/
-github: [nijel, WeblateOrg]
-custom: https://weblate.org/donate/
-liberapay: Weblate
-open_collective: weblate
-polar: WeblateOrg
+# This file is maintained in https://github.com/DeepsquadsOrg/meta/
+github: [nijel, DeepsquadsOrg]
+custom: https://deepsquads.org/donate/
+liberapay: Deepsquads
+open_collective: deepsquads
+polar: DeepsquadsOrg

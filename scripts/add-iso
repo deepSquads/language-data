@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -10,7 +10,7 @@ from urllib.request import urlopen
 
 names = {}
 
-# See https://github.com/WeblateOrg/language-data/issues/103
+# See https://github.com/DeepsquadsOrg/language-data/issues/103
 PLURALDATA = "https://jibecfed.fedorapeople.org/partage/languages-data/{}.json"
 
 with open("modules/iso-codes/data/iso_639-2.json") as handle:

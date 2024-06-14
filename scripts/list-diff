@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -100,7 +100,7 @@ with open("PLURALS_DIFF.md", "w") as handle:
 ## Difference in plurals
 
 This table lists differences in plurals between various sources.
-The Plurals column lists data in languages.csv which is used in Weblate
+The Plurals column lists data in languages.csv which is used in Deepsquads
 
 Code | Name | Plurals | CLDR plurals | Gettext plurals | L10n guide | Translate toolkit
 ---- | ---- | --------| ------------ | --------------- | ---------- | -----------------

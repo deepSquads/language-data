@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -15,7 +15,7 @@ from setuptools import setup
 from translate.tools.pocompile import convertmo
 
 LOCALE_MASKS = [
-    "weblate_language_data/locale/*/LC_MESSAGES/*.po",
+    "deepsquads_language_data/locale/*/LC_MESSAGES/*.po",
 ]
 
 
@@ -39,7 +39,7 @@ class BuildMo(Command):
                 convertmo(pofile, mofile, None)
 
 
-class WeblateBuild(build):
+class DeepsquadsBuild(build):
     """Override the default build with new subcommands."""
 
     # The build_mo has to be before build_data
@@ -47,5 +47,5 @@ class WeblateBuild(build):
 
 
 setup(
-    cmdclass={"build_mo": BuildMo, "build": WeblateBuild},
+    cmdclass={"build_mo": BuildMo, "build": DeepsquadsBuild},
 )

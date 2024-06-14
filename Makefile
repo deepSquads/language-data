@@ -1,10 +1,10 @@
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
-all: weblate_language_data/languages.py weblate_language_data/plural_tags.py PLURALS_DIFF.md $(wildcard weblate_language_data/locale/*/LC_MESSAGES/django.po) $(filter-out $(patsubst modules/cldr-json/cldr-json/cldr-localenames-full/main/%/languages.json,languages-po/%.po,$(wildcard modules/cldr-json/cldr-json/cldr-localenames-full/main/*/languages.json)),languages-po/en.po)
+all: deepsquads_language_data/languages.py deepsquads_language_data/plural_tags.py PLURALS_DIFF.md $(wildcard deepsquads_language_data/locale/*/LC_MESSAGES/django.po) $(filter-out $(patsubst modules/cldr-json/cldr-json/cldr-localenames-full/main/%/languages.json,languages-po/%.po,$(wildcard modules/cldr-json/cldr-json/cldr-localenames-full/main/*/languages.json)),languages-po/en.po)
 
-weblate_language_data/languages.py: languages.csv aliases.csv cldr.csv extraplurals.csv default_countries.csv population.csv qt.csv $(wildcard modules/iso-codes/data/iso_*.json) scripts/generate-language-data
+deepsquads_language_data/languages.py: languages.csv aliases.csv cldr.csv extraplurals.csv default_countries.csv population.csv qt.csv $(wildcard modules/iso-codes/data/iso_*.json) scripts/generate-language-data
 	./scripts/generate-language-data
 
 PLURALS_DIFF.md: languages.csv cldr.csv gettext.csv l10n-guide.csv translate.csv scripts/list-diff
@@ -32,7 +32,7 @@ LANG_DATA = $(shell python -c 'from pkg_resources import Requirement, resource_f
 translate.csv: $(LANG_DATA) scripts/export-translate
 	./scripts/export-translate
 
-weblate_language_data/plural_tags.py: modules/cldr-json/cldr-json/cldr-core/supplemental/plurals.json scripts/export-plural-tags modules/cldr-json/cldr-json/cldr-core/supplemental/aliases.json aliases.csv
+deepsquads_language_data/plural_tags.py: modules/cldr-json/cldr-json/cldr-core/supplemental/plurals.json scripts/export-plural-tags modules/cldr-json/cldr-json/cldr-core/supplemental/aliases.json aliases.csv
 	./scripts/export-plural-tags
 
 aliases.csv: scripts/export-iso-aliases modules/iso-codes/data/iso_639-2.json modules/iso-codes/data/iso_639-3.json modules/cldr-json/cldr-json/cldr-core/supplemental/aliases.json
@@ -47,15 +47,15 @@ languages.csv: modules/iso-codes/data/iso_639-2.json scripts/export-iso-language
 	./scripts/add-iso-population
 	@touch $@
 
-weblate_language_data/locale/django.pot: weblate_language_data/languages.py weblate_language_data/plurals.py
-	xgettext --add-comments=Translators: --msgid-bugs-address=https://github.com/WeblateOrg/language-data/issues/ --from-code=utf-8 --language=python --no-location --package-name="Weblate Language Data" --output=$@.1 weblate_language_data/*.py
+deepsquads_language_data/locale/django.pot: deepsquads_language_data/languages.py deepsquads_language_data/plurals.py
+	xgettext --add-comments=Translators: --msgid-bugs-address=https://github.com/DeepsquadsOrg/language-data/issues/ --from-code=utf-8 --language=python --no-location --package-name="Deepsquads Language Data" --output=$@.1 deepsquads_language_data/*.py
 	cp $@.1 $@.2
 	./scripts/copy-pot-date $@ $@.2
 	if cmp $@ $@.2 ; then touch $@ ; else cp $@.1 $@; fi
 	rm $@.1 $@.2
 
 
-weblate_language_data/locale/%/LC_MESSAGES/django.po: weblate_language_data/locale/django.pot modules/iso-codes/iso_639-3/%.po modules/iso-codes/iso_639-2/%.po languages-po/%.po
+deepsquads_language_data/locale/%/LC_MESSAGES/django.po: deepsquads_language_data/locale/django.pot modules/iso-codes/iso_639-3/%.po modules/iso-codes/iso_639-2/%.po languages-po/%.po
 	@echo "Update $@"
 	@ARGS=""; \
 	for file in modules/iso-codes/iso_639-3/$*.po modules/iso-codes/iso_639-2/$*.po languages-po/$*.po ; do \

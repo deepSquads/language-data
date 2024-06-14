@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -15,16 +15,16 @@ import sys
 BASE = "modules/cldr-json/cldr-json/cldr-localenames-full/main/en/languages.json"
 HEADER = """# CLDR language names for {0}
 # Automatically generated using tools available at
-# https://github.com/WeblateOrg/language-data
+# https://github.com/DeepsquadsOrg/language-data
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Weblate\\n"
+"Project-Id-Version: Deepsquads\\n"
 "Language: {0}\\n"
 "MIME-Version: 1.0\\n"
 "Content-Type: text/plain; charset=UTF-8\\n"
 "Content-Transfer-Encoding: 8bit\\n"
-"X-Generator: Weblate\\n"
+"X-Generator: Deepsquads\\n"
 """
 ROW = """
 msgid "{}"

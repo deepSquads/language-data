@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -12,7 +12,7 @@ import subprocess
 BASE = "modules/cldr-json/cldr-json/cldr-core/supplemental/plurals.json"
 ALIASES = "modules/cldr-json/cldr-json/cldr-core/supplemental/aliases.json"
 
-HEADER = '''# Copyright © Michal Čihař <michal@weblate.org>
+HEADER = '''# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -22,7 +22,7 @@ Language data definitions.
 This is an automatically generated file, see scripts/generate-language-data
 
 Do not edit, please adjust language definitions in following repository:
-https://github.com/WeblateOrg/language-data
+https://github.com/DeepsquadsOrg/language-data
 """
 # pylint: disable=line-too-long,too-many-lines
 
@@ -121,7 +121,7 @@ for code, alias in aliases["supplemental"]["metadata"]["alias"][
     if replacement in result:
         result[code] = result[replacement]
 
-# Read Weblate aliases
+# Read Deepsquads aliases
 with open("aliases.csv") as csvfile:
     reader = csv.reader(csvfile, delimiter=",")
     next(reader)
@@ -144,7 +144,7 @@ with open("qt.csv") as csvfile:
     qtplurals = {row[0]: TAG_MAP[row[3]] for row in reader}
 
 # Write plural tags
-with open("weblate_language_data/plural_tags.py", "w") as output:
+with open("deepsquads_language_data/plural_tags.py", "w") as output:
     output.write(HEADER)
     output.write(f"PLURAL_TAGS = {pprint.pformat(result)}\n\n")
     output.write(f"DECIMAL_PLURAL_TAGS = {pprint.pformat(decimals)}\n")
@@ -152,6 +152,6 @@ with open("weblate_language_data/plural_tags.py", "w") as output:
 
 # Apply coding style
 subprocess.run(
-    ["pre-commit", "run", "--files", "weblate_language_data/plural_tags.py"],
+    ["pre-commit", "run", "--files", "deepsquads_language_data/plural_tags.py"],
     check=False,
 )

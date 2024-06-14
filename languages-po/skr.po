@@ -1,12 +1,12 @@
 # CLDR language names for skr
 # Automatically generated using tools available at
-# https://github.com/WeblateOrg/language-data
+# https://github.com/DeepsquadsOrg/language-data
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Weblate\n"
+"Project-Id-Version: Deepsquads\n"
 "Language: skr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate\n"
+"X-Generator: Deepsquads\n"

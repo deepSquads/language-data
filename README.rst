@@ -1,32 +1,32 @@
-.. image:: https://s.weblate.org/cdn/Logo-Darktext-borders.png
-   :alt: Weblate
-   :target: https://weblate.org/
+.. image:: https://s.deepsquads.org/cdn/Logo-Darktext-borders.png
+   :alt: Deepsquads
+   :target: https://deepsquads.org/
    :height: 80px
 
-**Weblate is libre software web-based continuous localization system,
+**Deepsquads is libre software web-based continuous localization system,
 used by over 2500 libre projects and companies in more than 165 countries.**
 
-Language definitions used by `Weblate`_ and free to use by others.
+Language definitions used by `Deepsquads`_ and free to use by others.
 
-.. image:: https://img.shields.io/badge/website-weblate.org-blue.svg
+.. image:: https://img.shields.io/badge/website-deepsquads.org-blue.svg
     :alt: Website
-    :target: https://weblate.org/
+    :target: https://deepsquads.org/
 
-.. image:: https://hosted.weblate.org/widgets/weblate/-/svg-badge.svg
+.. image:: https://hosted.deepsquads.org/widgets/deepsquads/-/svg-badge.svg
     :alt: Translation status
-    :target: https://hosted.weblate.org/engage/weblate/?utm_source=widget
+    :target: https://hosted.deepsquads.org/engage/deepsquads/?utm_source=widget
 
 .. image:: https://bestpractices.coreinfrastructure.org/projects/552/badge
     :alt: CII Best Practices
     :target: https://bestpractices.coreinfrastructure.org/projects/552
 
-.. image:: https://img.shields.io/pypi/v/weblate-language-data.svg
-    :target: https://pypi.org/project/weblate-language-data/
+.. image:: https://img.shields.io/pypi/v/deepsquads-language-data.svg
+    :target: https://pypi.org/project/deepsquads-language-data/
     :alt: PyPI package
 
-.. image:: https://readthedocs.org/projects/weblate/badge/
+.. image:: https://readthedocs.org/projects/deepsquads/badge/
     :alt: Documentation
-    :target: https://docs.weblate.org/
+    :target: https://docs.deepsquads.org/
 
 Usage
 =====
@@ -35,7 +35,7 @@ The Python module can be installed from the PyPI:
 
 .. code-block:: sh
 
-    pip install weblate-language-data
+    pip install deepsquads-language-data
 
 It contains several modules containing language definitions and Gettext
 translations for them (in a way that they would be discovered by Django when
@@ -54,7 +54,7 @@ languages.csv
 -------------
 
 * Combined from several sources, plurals should match CLDR when available
-* Used by `Weblate`_ for language definitions
+* Used by `Deepsquads`_ for language definitions
 * Manually edited
 
 aliases.csv
@@ -107,11 +107,11 @@ languages-po
 * Directory containing PO files with langauge names translations
 * Extracted from CLDR data
 
-.. _Weblate: https://weblate.org/
+.. _Deepsquads: https://deepsquads.org/
 .. _translate-toolkit: https://toolkit.translatehouse.org/
 .. _l10n guide: https://docs.translatehouse.org/projects/localization-guide/en/latest/
 
 Contributing
 ============
 
-Contributions are welcome! See `documentation <https://docs.weblate.org/en/latest/contributing/modules.html>`__ for more information.
+Contributions are welcome! See `documentation <https://docs.deepsquads.org/en/latest/contributing/modules.html>`__ for more information.

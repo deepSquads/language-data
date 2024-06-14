@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright © Michal Čihař <michal@weblate.org>
+# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -20,7 +20,7 @@ URL = f"{BASE_URL}iso-639-3-macrolanguages.tab"
 # disambiguation for languages where it doesn't seem to be needed (for example Arabic)
 LANGUAGES = {"kur"}
 
-HEADER = '''# Copyright © Michal Čihař <michal@weblate.org>
+HEADER = '''# Copyright © Michal Čihař <michal@deepsquads.org>
 #
 # SPDX-License-Identifier: MIT
 
@@ -30,7 +30,7 @@ Language data definitions.
 This is an automatically generated file, see scripts/generate-language-data
 
 Do not edit, please adjust language definitions in following repository:
-https://github.com/WeblateOrg/language-data
+https://github.com/DeepsquadsOrg/language-data
 """
 # pylint: disable=line-too-long,too-many-lines
 
@@ -68,7 +68,7 @@ for macro in list(result.keys()):
         result[ALIASES[macro]] = result[macro]
 
 # Generate output
-with open("weblate_language_data/ambiguous.py", "w") as output:
+with open("deepsquads_language_data/ambiguous.py", "w") as output:
     output.write(HEADER)
     output.write("# List of ambiguous codes based on ISO-639-3 macrolanguages\n")
     output.write("AMBIGUOUS = ")
@@ -77,5 +77,5 @@ with open("weblate_language_data/ambiguous.py", "w") as output:
 
 # Black format code
 subprocess.run(
-    ["pre-commit", "run", "--files", "weblate_language_data/ambiguous.py"], check=False
+    ["pre-commit", "run", "--files", "deepsquads_language_data/ambiguous.py"], check=False
 )
